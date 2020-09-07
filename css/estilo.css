@@ -1,0 +1,118 @@
+body{
+	background-color: black;
+	background-image: url(""); ;
+}
+
+#container-nav{
+	display: flex;
+	background-color: black;
+	justify-content: center;
+
+	
+}
+
+#nav-img{
+	display: flex;
+	height: 200px;
+	width: 200px;
+	justify-content: center;
+}
+
+
+#container-article{
+	display: block;
+	height: 550px;
+	margin-left: 100px;
+	margin-right: 100px; 
+	background-color: black;
+}
+#main{
+	display:flex;
+}
+
+#texto1{
+	color: white;
+	background-color: black;
+	height: 550px;
+	font-family: Verdana;
+}
+
+#img-texto1{
+   margin-top: 100px
+}
+
+h2{
+	margin: 50px;
+	color: white;
+}
+
+#container-section{
+	display: flex;
+	margin-top: 60px;
+	padding-left: 100px;
+	background-color: black;
+	padding-left: 20%;
+	background-color: #151515;
+	border-radius: 60px;
+}
+
+.box{
+	display: flex;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	width: 500px;
+	justify-content: 
+	opacity: 1;
+}
+
+.box>img:hover{
+	opacity: 0.2;
+}
+
+.nome{
+	display: inline-block;
+	background-color: #151515;
+}
+
+#container-personagem{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 60px;
+	font-family: Verdana;
+	color: white;
+	background-color: #151515;
+	border-radius: 60px;
+}
+
+.config-sobre{
+	display: inline-block;;
+	width: 600px;
+	padding-top: 80px
+	color: white;
+	font-family: Verdana;
+}
+
+#rodape{
+	display:block;
+	margin-top: 50px;
+	justify-content: center;
+	background-color: white;
+ 	border-radius: 30px;
+
+}
+
+.texto3{
+	display: flex;
+	justify-content: center;
+	font-size: 25px;
+	padding-left:20px
+	
+}
+
+h3>p{
+	font-family: Verdana;
+}
+
+
+

@@ -1,0 +1,35 @@
+#buttom{
+	display: inline-flex;
+	align-self: flex-end;
+    justify-content: flex-end;
+    padding-right: 2px;
+	align-self: center;
+	color: white;
+
+}
+
+div>a{
+	color: white;
+	padding: 50px 50px 5px;
+	justify-content: flex-end;
+
+}
+
+a.nome1:hover{
+	background-color: #0B2F3A;
+    padding: 20px 20px 20px 20px;
+    border-radius: 1rem;
+}
+
+a.nome2:hover{
+	background-color: #0A2A0A;
+    padding: 20px 20px 20px 20px;
+    border-radius: 1rem;
+}
+
+a.nome3:hover{
+	background-color: #3B0B0B;
+    padding: 20px 20px 20px 20px;
+    border-radius: 1rem;
+}
+
